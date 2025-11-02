@@ -1,0 +1,9 @@
+flask
+flask-cors
+joblib
+torch
+transformers
+nltk
+scikit-learn
+requests
+python-dotenv
